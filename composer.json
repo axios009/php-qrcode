@@ -1,0 +1,19 @@
+{
+  "name": "axios009/php-qrcode",
+  "autoload": {
+    "psr-4": {
+      "TTnu\\PhpQrcode\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "axios009",
+      "email": "axios.acadia@gmail.com"
+    }
+  ],
+  "require": {
+    "chillerlan/php-qrcode": "^5.0",
+    "slim/slim": "3.0.0",
+    "components/jquery": "^3.7"
+  }
+}
